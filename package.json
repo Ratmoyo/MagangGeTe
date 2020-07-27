@@ -1,0 +1,29 @@
+{
+  "name": "magang-gete",
+  "version": "1.0.0",
+  "description": "Magang GeTe",
+  "main": "node.js",
+  "dependencies": {
+    "date": "^1.0.2",
+    "debug": "^4.1.1",
+    "dotenv": "^8.2.0",
+    "generate-password": "^1.5.1",
+    "node-emoji": "^1.10.0",
+    "quotes-photos-generator": "^1.0.5",
+    "superheroes": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ratmoyo/MagangGeTe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ratmoyo/MagangGeTe/issues"
+  },
+  "homepage": "https://github.com/Ratmoyo/MagangGeTe#readme"
+}
